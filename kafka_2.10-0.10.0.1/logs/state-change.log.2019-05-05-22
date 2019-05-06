@@ -1,0 +1,4 @@
+[2019-05-05 22:51:01,957] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
+[2019-05-05 22:52:18,478] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker twitter.us-east1-b.c.aroundgo-236002.internal:9092 (id: 0 rack: null) (state.change.logger)
+[2019-05-05 22:52:49,047] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
+[2019-05-05 22:56:34,932] TRACE Controller 0 epoch 2 received response {error_code=0} for a request sent to broker twitter.us-east1-b.c.aroundgo-236002.internal:9092 (id: 0 rack: null) (state.change.logger)
